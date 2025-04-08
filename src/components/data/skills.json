@@ -34,6 +34,15 @@
   {
     "title": "MongoDB",
     "imageSrc": "skills/mongodb.png"
+  },
+  {
+    "title": "Redux",
+    "imageSrc": "skills/redux.png"
+  },
+  {
+    "title": "Postman",
+    "imageSrc": "skills/postman.png"
   }
+
  
 ]
